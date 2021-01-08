@@ -1,0 +1,10 @@
+5+10,15,5
+10^2,100,1000
+100/20,5,20
+Glucose,C₆H₁₂O₆,C₆H₈O₆
+Boiling Point of Water,100°C,99°C
+Hardest Natural Material,Diamonds,Titanium
+1 Inch,2.54cm,3.52cm
+90/5,18,19
+Thirty Five Thousand,35000,3500
+ATP,Adenosine triphosphate,Adenosine triphuric acid

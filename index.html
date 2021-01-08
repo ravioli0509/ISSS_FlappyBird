@@ -1,0 +1,55 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ISSS Flappy Bird</title>
+    <link href="https://fonts.googleapis.com/css?family=Teko:700" rel="stylesheet">
+    <style>        
+        canvas{
+            border: 1px solid #000;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <style>
+        h1 {text-align: center;}
+        h2 {text-align: center;}
+    </style>
+    <h1 style="font-family:courier;">Welcome To ISSS Flappy Bird</h1>
+    <div class="row">
+        <div class="col-sm-4" style="font-family:courier;">
+            <h2 id="congrats"></h2>
+        </div>
+        <div class="col-sm-4">
+            <canvas id="bird" tabindex="1"  width="320" height="480"></canvas>
+        </div> 
+        <div class="col-sm-4" style="font-family:courier;">
+            <p>How To Play: Press spacebar to start, jump, and restart when its gameover</p>
+            <p>There will be questions below, </p>
+            <p>and your aim is to pass through the correct gap.</p>
+            <p>1 will be at the top, and 2 will be at bottom<p>
+            <p>A strike will be given if you pass the wrong gap</p>
+            <p>with no point, 3 strikes and its gameover</p>
+            <p>If you hit the pipe or the ground, that will be gameover as well.</p>
+            <p>Have fun! :)</p>
+
+        </div>         
+    </div>
+    <script src="game.js"></script>
+</body>
+<style>
+    h1 {text-align: center;}
+    h2 {text-align: center;}
+</style>
+<body>
+    <h1 style="font-family:courier;" id="qs"></h1>
+    <h2 style="font-family:courier;" id="a1"></h2>
+    <h2 style="font-family:courier;" id="a2"></h2>
+</body>
+</html>
