@@ -78,6 +78,8 @@ window.addEventListener("keydown", function(evt){
         }
         switch(state.current){
             case state.getReady:
+                let message = document.getElementById("congrats")
+                message.innerHTML = ""
                 state.current = state.game;
                 SWOOSHING.play();
                 break;
