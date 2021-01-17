@@ -8,3 +8,93 @@ Hardest Natural Material,Diamonds,Titanium
 90/5,18,19
 Thirty Five Thousand,35000,3500
 ATP,Adenosine triphosphate,Adenosine triphuric acid
+How many bones in sharks,0,1
+What does geiger counter measure,Radiation,Earthquake
+Boiling point of Oil,232°C,192°C
+Length Of Biggest T-Rex,13 meters,16 meters
+How many department in sciences,7,8
+Both plants and meat eaters are called,omnivores,herbivores
+Father of electrodynamics,André Marie Ampère,Jean-Babtiste Biot
+5*90,450,350
+What is 111 in binary,7,8
+Largest known animal,Blue Whale,Colossal Squid
+pH level of pure water,7,8
+What comes after potassium in periodic table,Calcium,Magnesium
+What is Sodium,Alkali,Alkaline Earth
+Atomic Mass of Carbon,12.011 u,15.022u
+Worst Case Runtime of Mergesort,O(n^2),O(n^3)
+Pythagorean Theorem,a^2 + b^2 = c^2,a^3 + b^3 = c^3
+Log(10),1,0.1
+What is Linux,Operating System,Mac Application
+Not a Programming Language,LOTUS,BASIC
+Default browser in Windows machine,Internet Explorer,Opera
+Main page of a website,Home page,Starter page
+Binary system uses the power of,2,4
+GUI,Graphical User Interface,Guided User Interface
+Rarest blood type,AB negative,O positive
+Nearest planet to the Sun,Mercury,Mars
+Earth layers in order,Crust→Mantle→Core,Mantle→Crust→Core
+What is RL in computer science,Reinforcement Learning,Reenactment Learning
+How many bones in a human,206,207
+Biggest bone in a human,Femur,Tibia
+How many chambers in the heart,4,5
+Thickest blood vessel,Arteries,Veins
+Process of plants creating glucose,photosynthesis,respiration
+What covers most of Earth's atmosphere,Nitrogen,Oxygen
+How fast is supersonic speed,About 1230 km/h,About 980 km/h
+-40°C in Farenheit,-40°C,-384°C
+Which comes first in psychology: attraction or flirting,attraction,flirting
+Coginitive psychology investigates,Mental Process,Neural Netowrk
+What cell parts detect stimuli,recepters,neurons
+Third stage of psychosexual development,Phallic Stage,Developing Stage
+Which one is a mammal,Monkey,Crocodile
+Biggest flower,Rafflesia Arnoldii,Venus Fly Trap
+How many hearts does an octopuse have,3,4
+How many teeth do we have,32,29
+Symbol for Silver,Ag,Au
+Symbol for Gold,Au,Ag
+How many seconds in 2 min,120,140
+Study of mushrooms,Mycology,Shroomology
+Biggest planet in our solar system,Jupiter,Saturn
+Diameter of Earth,12742 km,13742 km
+Diameter of Moon,3474 km,4474 km
+Diameter of Mars,6779 km,8279 km
+Worst case runtime of Bubble sort,O(n^2),O(log(n))
+Name of Google's page ranking algorithm,PageRank,Ranking Algorithm
+ohm measures,electrical resistance,electrical current
+Does velocity and acceleration have the same meaning,No,Yes
+Opposite of fusion in nuclear physics,fission,partition
+Is stiffness a term used in physics,Yes,No
+Earth's gravitational acceleration, 9.8m/s, 9.8km/h
+What does a Faraday cage block,Eletromagnetic fields,Sound
+Derivative of 2x^2,4x,2x
+4 + 2 x 3,10,18
+What is used to decrypt a encrypted text,Private Key,Public Key
+What did Dr. Michael Houghton discover,Hepatitis C Virus,Hepatitis B Virus
+Who developed the theory of relativity,Albert Einstein,Stephen Hawking
+How to form black hole,Death of a massive star,Supernova
+Who invented the C language,Dennis Ritchie,Bjarne Stroustrup
+Which one is a markup language,XML,JavaScript
+What is www,World Wide Web,World Wide Webster
+Hex for binary 1110,E,F
+Not a type of osmosis,epitonic,hypotonic
+Largest star in the universe,UY Scuti,Sirius A
+Largest black hole in the universe,TON 618,HGUI 231
+Atomic mass of Sulphur,32.965 u,53.231 u
+Atomic mass of Chlroine,35.453 u,32.121 u
+Sodium Chloride,Salt,Sugar
+Hair made of,Keratin,Proteins
+Acronym for API,Application Programming Interface,Application Processing Interface
+Not a search engine,Midori,DuckDuckGo
+Derivative of 3x,3,1.5x^2
+cd in linux command,change directory,change direction
+Not a programming language,C--,C++
+When did dinosaurs go extinct,End of Cretaceous Period,End of Jurassic Period
+What do you call flying dinosaurs,Pterosaurs,Sauropods
+Another meaning for Albertosaurus,Alberta Lizard,Alberta Bear
+Which contracts when you bend your arm,Biceps,Triceps
+Which contracts when you relax your arm,Triceps,Biceps
+What is Log(0),undefined,0
+What is 0! ,1,0
+Can anything travel faster than light,No,Yes
+Is JavaScript an extension of Java,No,Yes

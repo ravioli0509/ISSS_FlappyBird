@@ -347,18 +347,18 @@ const pipes = {
     
     update: function(){
         if(state.current !== state.game) return;
-        if(frames%200 == 0){
+        if(frames%400 == 0){
             let correct_answer = Math.floor(Math.random() * 2) + 1
             let question = document.getElementById("qs");
             let answer_1 = document.getElementById("a1");
             let answer_2 = document.getElementById("a2");
             if(correct_answer == 1){
-                question.innerHTML = "Question: " + questions[pipe_id].q + "?"    
+                question.innerHTML = questions[pipe_id].q + "?"    
                 answer_1.innerHTML = "1: " + questions[pipe_id].a
                 answer_2.innerHTML = "2: " + questions[pipe_id].w
 
             } else {
-                question.innerHTML = "Question: " + questions[pipe_id].q + "?"
+                question.innerHTML = questions[pipe_id].q + "?"
                 answer_1.innerHTML = "1: " + questions[pipe_id].w
                 answer_2.innerHTML = "2: " + questions[pipe_id].a
             }
@@ -395,7 +395,7 @@ const pipes = {
             if (bird.x + bird.radius > p.x && bird.x - bird.radius < p.x + this.coin.w && bird.y + bird.radius > numbers.twoY && bird.y - bird.radius < numbers.twoY + this.coin.h && p.answer == 1) {
                 p.isCorrect = false
             }
-            p.x -= this.dx;
+            p.x -= this.dx/2;
             if(p.x + this.w <= 0){
                 this.position.shift();
                 pipe_id++;
