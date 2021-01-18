@@ -21,7 +21,7 @@ Largest known animal,Blue Whale,Colossal Squid
 pH level of pure water,7,8
 What comes after potassium in periodic table,Calcium,Magnesium
 What is Sodium,Alkali,Alkaline Earth
-Atomic Mass of Carbon,12.011 u,15.022u
+Atomic Mass of Carbon,12.011 u,15.022 u
 Worst Case Runtime of Mergesort,O(n^2),O(n^3)
 Pythagorean Theorem,a^2 + b^2 = c^2,a^3 + b^3 = c^3
 Log(10),1,0.1
@@ -49,7 +49,7 @@ What cell parts detect stimuli,recepters,neurons
 Third stage of psychosexual development,Phallic Stage,Developing Stage
 Which one is a mammal,Monkey,Crocodile
 Biggest flower,Rafflesia Arnoldii,Venus Fly Trap
-How many hearts does an octopuse have,3,4
+How many hearts does an octopus have,3,4
 How many teeth do we have,32,29
 Symbol for Silver,Ag,Au
 Symbol for Gold,Au,Ag
@@ -65,7 +65,7 @@ ohm measures,electrical resistance,electrical current
 Does velocity and acceleration have the same meaning,No,Yes
 Opposite of fusion in nuclear physics,fission,partition
 Is stiffness a term used in physics,Yes,No
-Earth's gravitational acceleration, 9.8m/s, 9.8km/h
+Earth's gravitational acceleration,9.8 m/s,9.8 km/h
 What does a Faraday cage block,Eletromagnetic fields,Sound
 Derivative of 2x^2,4x,2x
 4 + 2 x 3,10,18
@@ -98,3 +98,55 @@ What is Log(0),undefined,0
 What is 0! ,1,0
 Can anything travel faster than light,No,Yes
 Is JavaScript an extension of Java,No,Yes
+Is displacement scalar or vector,Scalar,Vector
+Electric field is a vector or scalar field,Vector,Scalar
+Weight of a 50 kg person on earth is,490 N,300 N
+Frequency is measure in,Meters,Hertz
+Sum of angles in a quadrilateral is,180,360
+Tallest building in the world is,Burj Khalifa,CN Tower
+One product of respiration is,Carbon-dioxide,Glucose
+Can Pi be written as a fraction,No,Yes
+How many milliliters are in one liter,1000,100
+Role of liver is to break down,toxins,blood
+Fluid that protects a baby during development,Amniotic Fluid,Grey Fluid
+Rocks made in extreme heat and pressure,Metamorphic,Igneous
+Red Blood Cells transport,nutrients,antibodies
+Metal that is liquid at room temperature,Mercury,Chlorine
+Temperature at which three phases of a substance coexists,triple point,critical point
+Coldest possible temperature in the universe,-273,-100
+Name given to science of classification,Taxonomy,Taxidermy
+Hubble Telescope is named after,An astronomer,A rocket scientist
+Human cells have how many chromosome pairs,23,32
+Phospholipid bilayer is composed of,fatty acid chains,proteins
+First person to go to space,Yuri Gagarin,Alyssa Carson
+Site of photosynthesis,Chloroplast,Chlorophyll
+RNA is,single-stranded,double-stranded
+A spontaneous reaction is also called,exergonic,endergonic
+Derivative of ln(x) is,1/x,x
+Acid used for producing hormones,Fatty acid,Citric Acid
+Fermentation takes place under which respiration,Anaerobic,Aerobic
+Sudden changes in the position of genes is,Mutation,Translocation
+Excess of carbohydrates are stored in,Liver,Muscles
+Exponential increase of bacterial cells occurs in,Log phase,Lag phase
+A manometer measures,pressure,force
+What changes as a result of independent variable,Dependent variable,Hypothesis
+What equation represents Ohm's Law,V=I*R,P = (I^2)*R
+Light is a,transverse wave,longitudinal wave
+Noble gases have how many valence electrons,8,0
+Butane has how many carbons,4,5
+Number of complete waves formed in 1 second is,Frequency,Period
+Large Hadron Collider (LHC) is a,particle accelerator,engine
+Mineral salt found in toothpaste,Fluorine,Chlorine
+Pi is,3.14159...,3.14327...
+Which chemical bond is strongest,Ionic Bond,Hydrogen Bond
+DNA is organized into structures called,Chromosomes,Nucleotides
+Hardest substance in human body,Enamel,Bone
+Who coined the term dark energy,Micheal S Turner,Stephen Hawking
+Mushroom is a,Fungus,Yeast
+Study of water is,Hydrology,Aqualogy
+Sugar found in DNA is,Deoxyribose,Glucose
+A light year is a unit of,Distance,Time
+Standard unit of kinetic energy,Joule,Newton
+Scientific study of animal biology is,Zoology,Entomology
+"c" in E=mC^2 is,speed of light,planck's constant
+Functional unit of heredity,Gene,Chromosome
