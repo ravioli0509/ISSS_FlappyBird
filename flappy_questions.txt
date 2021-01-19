@@ -102,7 +102,7 @@ Is displacement scalar or vector,Scalar,Vector
 Electric field is a vector or scalar field,Vector,Scalar
 Weight of a 50 kg person on earth is,490 N,300 N
 Frequency is measure in,Meters,Hertz
-Sum of angles in a quadrilateral is,180,360
+Sum of angles in a quadrilateral is,360,180
 Tallest building in the world is,Burj Khalifa,CN Tower
 One product of respiration is,Carbon-dioxide,Glucose
 Can Pi be written as a fraction,No,Yes
